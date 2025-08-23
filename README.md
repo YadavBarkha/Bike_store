@@ -101,4 +101,4 @@ https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27
 14. Most profitable product (based on revenue)
 https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk14.png                                                                                                                        
 15. Percentage contribution of each category to total revenue
-
+https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk15.png
