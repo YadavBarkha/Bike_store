@@ -1,64 +1,57 @@
-# Bike_store
+
 
 
 🚴‍♂️ Bike Store: Unlocking Insights for a Retail Business
 <img width="946" height="640" alt="bikkkkeee" src="https://github.com/user-attachments/assets/3609cdfd-b090-4f33-bf8c-e869866477f4" />
 
 
-📌 Project Overview
-
-This project focuses on analyzing the Bike Store Database to uncover insights that can improve sales performance, customer experience, and inventory management. Using SQL, we perform exploratory data analysis (EDA), study the schema, and answer critical business queries that support decision-making in retail operations.
+📌 Project Overview 
+This project dives into the Bike Store relational database, focusing on sales, customers, products, inventory, and staff performance. Through structured SQL analysis and exploratory data techniques, it aims to reveal valuable insights that support retail strategy, customer engagement, and operational improvements.
 
 🎯 Project Goals
+
 🛒 Customer Insights
 
-📌 Identify customer profiles, locations, and order history for targeted campaigns.
-
-📊 Analyze customer purchase behavior to boost engagement and retention.
+ * 📌 Identify customer profiles, locations, and order history for targeted campaigns.
+ * 📊 Analyze customer purchase behavior to boost engagement and retention.
 
 🚲 Product & Inventory Optimization
+ * 🛠️ Track inventory across stores and categories to avoid stockouts.
+ *  🔍 Identify best-selling and underperforming products.
 
-🛠️ Track inventory across stores and categories to avoid stockouts.
-
-🔍 Identify best-selling and underperforming products.
 
 💰 Revenue Enhancement
-
-📈 Measure revenue at store, product, and category levels.
-
-🛍️ Discover pricing trends and profit margins to maximize sales.
+* 📈 Calculate total and category-wise revenue to spot trends.
+* 🛍️ Evaluate pricing strategies and profit potential by product.
+  
 
 ⚙️ Operational Efficiency
+* 📌 Monitor staff activity and performance in processing orders.
+* 🗂️ Track store-wise sales to identify growth opportunities.
 
-📌 Monitor staff activity and performance in processing orders.
-
-🗂️ Compare store-level sales for expansion and strategy planning.
 
 🛠️ Tools & Technologies Used
-
-SQL – Data querying and analysis
-
-Bike Store Database – Relational retail dataset
-
-MySQL / PostgreSQL – Query execution engines
-
-DBeaver / MySQL Workbench – Database IDE
-
-Excel / CSV Files – Raw data tables
+* SQL – Data querying and analysis
+* Bike Store Database – Relational retail dataset
+* MySQL / PostgreSQL – Query execution engines
+* DBeaver / MySQL Workbench – Database IDE
+* Excel / CSV Files – Raw data tables
 
 📊 Insights & Expected Outcomes
+* 📢 Better customer segmentation for marketing strategies.
+* 🚲 Smarter inventory planning based on demand patterns.
+* 💵 Increased revenue tracking through product and store-level analysis.
+*⚙️ Improved staff productivity monitoring and operational clarity.
 
-📢 Better customer segmentation for marketing strategies.
+📌 Conclusion
 
-🚲 Smarter inventory planning based on demand patterns.
-
-💵 Increased revenue tracking through product and store-level analysis.
-
-⚙️ Improved staff productivity monitoring and operational clarity.
+This project highlights the potential of SQL-driven business intelligence in the retail sector. From optimizing product inventory to tracking staff productivity and enhancing revenue through analytics, the Bike Store Database provides a practical, hands-on environment for applying real-world data skills.
 
 
+✅ Bike_Store SQL Queries
+This repository contains SQL queries and corresponding visualizations for analyzing the Bike_Store dataset.
 
-✅ Sample SQL Queries
+* Queries and Visualizations
 
 1. Show all customers from the city 'New York'
 <img width="347" height="235" alt="bk1" src="https://github.com/user-attachments/assets/5929f5a1-f7b8-4b9c-b918-c2dd1ee65486" />
@@ -119,6 +112,4 @@ Excel / CSV Files – Raw data tables
 15. Percentage contribution of each category to total revenue
 <img width="351" height="223" alt="bk15" src="https://github.com/user-attachments/assets/cec82366-57f1-43ab-b8cc-567c03aa014b" />
 
-📌 Conclusion
 
-This project highlights the potential of SQL-driven business intelligence in the retail sector. From optimizing product inventory to tracking staff productivity and enhancing revenue through analytics, the Bike Store Database provides a practical, hands-on environment for applying real-world data skills.
