@@ -73,30 +73,22 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 3.List all products with category, brand, and price 
 
-![Query 2 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk3.png)
+![Query 3 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk3.png)
 
 
--- Show all orders along with customer name and order date--
+4. Show all orders along with customer name and order date
 
-select o.order_id, c.first_name, c.last_name, o.order_date
-from orders as o
- inner join customers as c ON o.customer_id = c.customer_id;
+![Query 4 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk4.png)
 
 
- -- Find the top 5 most expensive products --
+ 5.Find the top 5 most expensive products 
  
- select product_name, list_price
- from products
- order by list_price desc
- limit 5;
+ ![Query 5 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk5.png)
  
  
- -- List products with no stock in any store --
+ 6. List products with no stock in any store 
  
-select p.product_name
-from products as p
-left join  stocks as s on p.product_id = s.product_id
-where s.quantity is null;
+ ![Query 6 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk6.png)
  
  
 -- Get total revenue from each product --
