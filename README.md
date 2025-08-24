@@ -7,7 +7,7 @@
 
 📌 Project Overview 
 This project dives into the Bike Store relational database, focusing on sales, customers, products, inventory, and staff performance. Through structured SQL analysis and exploratory data techniques, it aims to reveal valuable insights that support retail strategy, customer engagement, and operational improvements.
-                                                                                                                                                                                                                     📂 Database Tables
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               📂 Database Tables
  **brands** – Bike brands  
  **categories** – Product categories  
  **customers** – Customer details  
