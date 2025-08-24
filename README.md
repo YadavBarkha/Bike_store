@@ -127,26 +127,14 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ![Query 13 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk13.png)
 
 
--- Most profitable product (based on revenue)--
+14.Most profitable product (based on revenue)
 
-select  p.product_name, SUM(oi.quantity * oi.list_price) as total_revenue
-from order_items as oi
-inner join  products as p on  oi.product_id = p.product_id
-group by p.product_name
-order by total_revenue desc
-limit 1;
+![Query 14 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk14.png)
 
 
--- Percentage contribution of each category to total revenue --
+15. Percentage contribution of each category to total revenue 
 
-select  c.category_name,
-       ROUND(SUM(oi.quantity * oi.list_price) * 100.0 / 
-             (select SUM(quantity * list_price) from  order_items), 2) as revenue_percentage
-from order_items  as oi
-inner join products as p on  oi.product_id = p.product_id
-inner join  categories as c ON p.category_id = c.category_id
-group by c.category_name;
-
+![Query 15 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk15.png)
 
 
 
