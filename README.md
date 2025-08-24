@@ -64,7 +64,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 * Queries and Visualizations
 
 1. Show all customers from the city 'New York'                                                                                                                                                                      
-<img width="347" height="235" alt="bk1" src="https://github.com/user-attachments/assets/d3f50a52-0bce-408a-a98d-a727c6b2eb73" />
+https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk1.png
                                                                                                                                                                                                                                                                                                                                                                                
 2. Find the number of products in each category
 https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk2.png
