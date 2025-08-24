@@ -74,9 +74,6 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 
 
-3.List all products with category, brand, and price                                                                                                                                                                             
-![Query 3 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk3.png)
-
 
 
 4.Show all orders along with customer name and order date
