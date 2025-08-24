@@ -63,36 +63,27 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 * Queries and Visualizations
 
-1. Show all customers from the city 'New York'                                                                                                                                                                                                                                                                                                                                                                                          ![Query 1 Result](https://github.com/YadavBarkha/Bike_store/blob/main/bk1.png?raw=true)                                                                                                                                                                                                                                                                                                                                       
-2. Find the number of products in each category
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk2.png
+1. Show all customers from the city 'New York'                                                                                                                                                                         
+![Query 1 Result](https://github.com/YadavBarkha/Bike_store/blob/main/bk1.png?raw=true)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2. Find the number of products in each category                                                                                                                                                                                                                                                                                                                                                                                                  
 
-3. List all products with category, brand, and price
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk3.png
-
-
-4. Show all orders along with customer name and order date
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk4.png
+3. List all products with category, brand, and price                                                                                                                                                                                                                          
 
 
-5. Find the top 5 most expensive products
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk5.png
-
-6. List products with no stock in any store
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk6.png
-
-7. Get total revenue from each product
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk7.png
-
-8. Show order details with product names and quantity
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/8.png
+4. Show all orders along with customer name and order date                                                                                                                                                                                                                                                                                                                                                                                     
 
 
-9. List all staff and the number of orders they handled
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk9.png
+5. Find the top 5 most expensive products                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+6. List products with no stock in any store                                                                                                                                                                                                                                                                                                                                                                                                            
+
+7. Get total revenue from each product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+8. Show order details with product names and quantity                                                                                                                                                                         
+
+
+9. List all staff and the number of orders they handled                                                                                                                                                                                                                                                                                                                                                                                                           
 
 10. Revenue generated per category
-https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk10.png
 
 
 11. Total stock available in each store
