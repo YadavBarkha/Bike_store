@@ -64,7 +64,9 @@ This repository contains SQL queries and corresponding visualizations for analyz
 * Queries and Visualizations
 
 1. Show all customers from the city 'New York'                                                                                                                                                                         
-![Query 1 Result](https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk1.png)                                                                                                                                                                                                                                                                                                                             
+![Query 1 Result](https://github.com/YadavBarkha/Bike_store/blob/aadb2f336a0e615a4c07e1da31c9c1d27242bf11/buil/bk1.png)
+
+                                                                                                                                                                                                                                                                                                                          
 
 2.Find the number of products in each category
 
@@ -130,4 +132,5 @@ This repository contains SQL queries and corresponding visualizations for analyz
 15. Percentage contribution of each category to total revenue
 ![Query 15 Result](https://github.com/YadavBarkha/Bike_store/blob/6c784a972497f53c9829faef84cfc80285430e38/bk15.png)
 
+                                                                                                                                                                                                                                                                                                                          
 
